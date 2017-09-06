@@ -1,0 +1,9 @@
+// 完全不影响的warning和error
+objc[894]: Class PLBuildVersion is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/AssetsLibraryServices.framework/AssetsLibraryServices (0x107691998) and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/PrivateFrameworks/PhotoLibraryServices.framework/PhotoLibraryServices (0x107226880). One of the two will be used. Which one is undefined.
+2017-08-11 22:37:07.106 BikeMapMVCDemo[894:20473] Reachability Flag Status: -R ------- networkStatusForFlags
+2017-08-11 22:37:09.619 BikeMapMVCDemo[894:20473] WeiboSDK openAppWithTransferObject
+2017-08-11 22:37:09.636 BikeMapMVCDemo[894:20473] -canOpenURL: failed for URL: "weibosdk://" - error: "The operation couldn’t be completed. (OSStatus error -10814.)"
+2017-08-11 22:37:09.636 BikeMapMVCDemo[894:20473] WeiboSDK  CanNotAuthInWeiboApp WBAuthorizeRequest
+2017-08-11 22:37:09.637 BikeMapMVCDemo[894:20473] Simulator user has requested new graphics quality: 100
+2017-08-11 22:37:14.608 BikeMapMVCDemo[894:20644] NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9814)
+2017-08-11 22:37:30.883 BikeMapMVCDemo[894:20538] PBItemCollectionServicer connection disconnected.

@@ -1,0 +1,3 @@
+// 现在正卡在的error
+2017-08-11 22:37:30.888 BikeMapMVCDemo[894:20473] -[BikeMapMVCDemo.AppDelegate application:openURL:sourceApplication:annotation:]: unrecognized selector sent to instance 0x600000024d80
+2017-08-11 22:37:30.893 BikeMapMVCDemo[894:20473] *** Terminating app due to uncaught exception 'NSInvalidArgumentException', reason: '-[BikeMapMVCDemo.AppDelegate application:openURL:sourceApplication:annotation:]: unrecognized selector sent to instance 0x600000024d80'
