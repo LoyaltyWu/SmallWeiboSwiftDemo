@@ -5,5 +5,5 @@
 #import "WBHttpRequest.h"
 #import "WeiboSDK.h"
 
-#define kAppKey @"3775693956"
+#define kAppKey @"sorryForNotSharingMyAppKey"
 #define kRedirectURI @"https://api.weibo.com/oauth2/default.html"
